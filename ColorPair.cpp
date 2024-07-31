@@ -42,4 +42,5 @@ namespace TelCoColorCoder
 			std::cout << pairNumber << " " << colorPair.ToString() << std::endl;
 		}
 	}
+
 }
